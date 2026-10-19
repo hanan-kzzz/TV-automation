@@ -203,6 +203,14 @@ To enable Telegram automation, run two processes:
 2. The **Telegram Bot**
 
 ### Windows (Local or Desktop)
+
+#### Method 1: 1-Click Startup Script (Fastest)
+Simply double-click:
+- **`start_bot.bat`**: Immediately starts both the MoneyPrinterTurbo Core Engine and Telegram Bot.
+- **`start.bat`**: Interactive launcher menu (Telegram Bot, Streamlit WebUI, Full Suite, Diagnostics, and Stop Services).
+- **`stop.bat`**: Cleanly shuts down all background engine and bot processes.
+
+#### Method 2: Manual Terminal Windows
 Open two PowerShell terminals:
 
 **Terminal 1 — Core Engine:**
